@@ -10,5 +10,6 @@ def extract_sentiment(text):
 
     return text.sentiment.polarity
 
+
 def text_contain_word(word: str, text: str):
     return word in text
