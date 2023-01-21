@@ -22,7 +22,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_app.test_extract_sentiment">
+  <component name="RunManager" selected="Python tests.pytest in test_app.py">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-13-DominikKorona" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,6 +43,23 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_app.test_bubblesort" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-13-DominikKorona" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_app.test_bubblesort&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for test_app.test_extract_sentiment" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -79,11 +96,30 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_app.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-13-DominikKorona" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_app.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_app.py" />
+        <item itemvalue="Python tests.pytest for test_app.test_bubblesort" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python tests.pytest for test_app.test_extract_sentiment" />
         <item itemvalue="Python tests.pytest for test_app.test_hello" />
-        <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674299627263</updated>
       <workItem from="1674299630522" duration="198000" />
+      <workItem from="1674316671119" duration="2414000" />
     </task>
     <servers />
   </component>
@@ -103,8 +140,10 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_for_test_app_test_hello.coverage" NAME="pytest for test_app.test_hello Coverage Results" MODIFIED="1674299761710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$app.coverage" NAME="app Coverage Results" MODIFIED="1674299747608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_for_test_app_test_extract_sentiment.coverage" NAME="pytest for test_app.test_extract_sentiment Coverage Results" MODIFIED="1674299769902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_for_test_app_test_hello.coverage" NAME="pytest for test_app.test_hello Coverage Results" MODIFIED="1674317368657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_for_test_app_test_bubblesort.coverage" NAME="pytest for test_app.test_bubblesort Coverage Results" MODIFIED="1674318921431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$app.coverage" NAME="app Coverage Results" MODIFIED="1674318376918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_in_test_app_py.coverage" NAME="pytest in test_app.py Coverage Results" MODIFIED="1674319104271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/laboratorium_13_DominikKorona$pytest_for_test_app_test_extract_sentiment.coverage" NAME="pytest for test_app.test_extract_sentiment Coverage Results" MODIFIED="1674317611064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
 </project>
